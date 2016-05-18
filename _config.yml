@@ -1,0 +1,28 @@
+name: MyPhotography
+favicon: null
+layout_spectrum: 0.7889339600224048
+typography_spectrum: 0.3432217186782509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4004842487629503
+  lightness: 0.7880997066386044
+  saturation: 0.2996360908728093
+  rhythmicContrast: 0.3939443347044289
+purpose: []
