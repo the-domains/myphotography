@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MyPhotography]]></title>
         <description><![CDATA[MyPhotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/myphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 18:55:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 04 Jun 2016 19:28:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/myphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Udvar-Hazy Center, Air And Space Museum In Dulles, VA]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30107d74-215c-41fb-b64d-54e6a63863b3.jpg">]]></description>
+            <link>https://thegrid.ai/myphotography/udvar-hazy-center-air-and-space-museum-in-dulles-va/index.html</link>
+            <guid isPermaLink="false">693569ac-257c-4635-ae9c-4377b25e39dc</guid>
+            <pubDate>Sat, 04 Jun 2016 19:28:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8721c686-9346-43f2-b912-e3b71178ea6b.jpg">]]></description>
-            <link>undefinedlong-exposure-at-the-appalachian-trail-in-virginia/index.html</link>
+            <link>https://thegrid.ai/myphotography/long-exposure-at-the-appalachian-trail-in-virginia/index.html</link>
             <guid isPermaLink="false">6a70955a-d64c-4868-9c1d-990a5ef1e0d7</guid>
             <pubDate>Sat, 04 Jun 2016 18:55:39 GMT</pubDate>
         </item>
